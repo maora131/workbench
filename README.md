@@ -1,6 +1,6 @@
 # workbench
-Ejercicio con el GSBD mySQL Workbench.
-Tutorial: ---
+Ejercicio con el GSBD mySQL Workbench.<br>
+Tutorial: https://towardsdatascience.com/coding-and-implementing-a-relational-database-using-mysql-d9bc69be90f5
 ![image](https://user-images.githubusercontent.com/91051075/159240111-b5c08f00-b158-4823-9811-3dba74a62b59.png)
 lorem <br>
 ![image](https://user-images.githubusercontent.com/91051075/159240229-769ad3ed-184b-49db-a09a-7bc4054de209.png) <br>
