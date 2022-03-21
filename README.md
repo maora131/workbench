@@ -1,4 +1,4 @@
-# workbench-drawio
+# workbench
 Ejercicio con el GSBD mySQL Workbench.
 Tutorial: ---
 ![image](https://user-images.githubusercontent.com/91051075/159240111-b5c08f00-b158-4823-9811-3dba74a62b59.png)
