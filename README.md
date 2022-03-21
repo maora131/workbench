@@ -7,13 +7,13 @@ A partir de la terminal de workbench insertamos las diferentes tablas. (Los coma
 ![image](https://user-images.githubusercontent.com/91051075/159240229-769ad3ed-184b-49db-a09a-7bc4054de209.png) <br>
 En esta imagen se pueden ver los tipos de tablas y sus diferentes acciones. <br>
 ![image](https://user-images.githubusercontent.com/91051075/159240378-3a882a0f-a7ab-401d-9455-692d933da1fc.png) <br>
-Alumnos con sus datos e ids. <br>
+Comercios. <br>
 ![image](https://user-images.githubusercontent.com/91051075/159240471-0d24e3d0-a077-4127-ae6f-0df44ca2753f.png) <br>
-Número de profesores.
+Alumnos con sus datos e ids.
 ![image](https://user-images.githubusercontent.com/91051075/159240603-c9194b9c-b56d-42b1-8be6-fb55ccd4f90e.png) <br>
-lorem <br>
+Número de profesores.
 ![image](https://user-images.githubusercontent.com/91051075/159240753-70bb5660-897f-42a2-99b9-57dfa5cca118.png) <br>
-lorem <br>
+Dentro de Workbench en la parte de Database y seleccionando el reverse engineer, se puede hacer un diagrama de la bbdd
 ![image](https://user-images.githubusercontent.com/91051075/159240895-ec3de81a-44cd-43b7-8456-28e3f137a7c3.png) <br>
 
 
